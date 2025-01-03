@@ -31,9 +31,9 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaralvrod&show_icons=true&theme=gruvbox&hide_border=false" alt="GitHub Stats" style="margin: 0; padding: 0; border: none;">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aaralvrod&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats" style="margin: 0; padding: 0; border: none;">
+<p align="left">
+  <img width="47.2%" src="https://github-readme-stats.vercel.app/api?username=aaralvrod&show_icons=true&theme=gruvbox&hide_border=false" alt="GitHub Stats" style="margin: 0; padding: 0; border: none;">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaralvrod&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats" style="margin: 0; padding: 0; border: none;">
 </p>
 
 ## 🤝🏻 &nbsp;Connect with Me
@@ -41,5 +41,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)](aaralvrod@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/aaronalvzz)
 
+<div align='right'>
 
 ###### Last update 03/01/2025
+
+</div>
