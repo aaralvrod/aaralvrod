@@ -31,10 +31,10 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div style="display: flex; justify-content: center; gap: 0; padding: 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaralvrod&show_icons=true&theme=gruvbox&hide_border=false" alt="GitHub Stats" style="margin: 0; padding: 0; border: none;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaralvrod&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats" style="margin: 0; padding: 0; border: none;">
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaralvrod&show_icons=true&theme=gruvbox&hide_border=false" alt="GitHub Stats" style="margin: 0; padding: 0; border: none;">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aaralvrod&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats" style="margin: 0; padding: 0; border: none;">
+</p>
 
 ## 🤝🏻 &nbsp;Connect with Me
 
