@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, I'm Aaron👋</h1></summary>
+    <summary><h1 style="display: inline-block">Hi, I'm Aarón👋</h1></summary>
   </ul>
 </div>
 
@@ -31,10 +31,11 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 10px; padding: 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaralvrod&show_icons=true&theme=gruvbox&hide_border=false" alt="GitHub Stats" style="max-width: 100%; margin:0; padding:0; border:none;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaralvrod&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats" style="max-width: 100%; margin:0; padding:0; border:none;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaralvrod&show_icons=true&theme=gruvbox&hide_border=false" alt="GitHub Stats" style="max-width: 45%; margin: 0; padding: 0; border: none;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaralvrod&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats" style="max-width: 45%; margin: 0; padding: 0; border: none;">
 </div>
+
 
 
 ## 🤝🏻 &nbsp;Connect with Me
@@ -42,3 +43,5 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)](aaralvrod@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/aaronalvzz)
 
+
+###### Last update 03/01/2025
