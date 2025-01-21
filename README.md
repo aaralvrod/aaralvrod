@@ -33,7 +33,7 @@
 
 <p align="left">
   <img width="47.2%" src="https://github-readme-stats.vercel.app/api?username=aaralvrod&show_icons=true&theme=gruvbox&hide_border=false" alt="GitHub Stats" style="margin: 0; padding: 0; border: none;">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaralvrod&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats" style="margin: 0; padding: 0; border: none;">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaralvrod&show_icons=true&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats" style="margin: 0; padding: 0; border: none;">
 </p>
 
 ## 🤝🏻 &nbsp;Connect with Me
