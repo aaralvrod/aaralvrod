@@ -29,12 +29,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![SQLite3](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-  <img width="47.2%" src="https://github-readme-stats.vercel.app/api?username=aaralvrod&show_icons=true&theme=gruvbox&hide_border=false" alt="GitHub Stats" style="margin: 0; padding: 0; border: none;">
-</p>
-
 ## 🤝🏻 &nbsp;Connect with Me
 
 [![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)](aaralvrod@gmail.com)
