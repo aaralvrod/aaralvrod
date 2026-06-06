@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <em>Web Developer · Based in Tenerife, Spain · Open to remote work</em>
+  <em>Web Developer · Based in Tenerife, Spain</em>
 </p>
 
 ---
